@@ -1,0 +1,19 @@
+PODS:
+  - ServiceApi (1.0):
+    - SwiftyJSON
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - ServiceApi (from `../`)
+
+EXTERNAL SOURCES:
+  ServiceApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ServiceApi: 5b23ddace5a73696a090cb70e88fd8a93ae442a5
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 4754e334502de5603a22ee0fe82ee3afbc618590
+
+COCOAPODS: 1.2.0.beta.3

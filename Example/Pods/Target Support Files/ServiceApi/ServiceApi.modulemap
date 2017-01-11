@@ -1,0 +1,6 @@
+framework module ServiceApi {
+  umbrella header "ServiceApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
